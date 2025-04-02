@@ -1,13 +1,12 @@
-_site
-.bundle
-.sass-cache
-.jekyll-cache
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-.DS_store
+
+# for macOS (qsu1)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.idea/
 .ruby-version
-.tweet-cache
-Gemfile.lock
-assets/libs/
-node_modules/
-vendor
-.idea
