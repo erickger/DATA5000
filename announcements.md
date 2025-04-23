@@ -2,7 +2,7 @@
 layout: page
 permalink: /announcements/
 title: Announcements
-description: Here you will find the announcements made in class
+description: PLease make sure to check this site regularly.
 ---
 
 <ul class="post-list">
