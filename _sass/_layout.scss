@@ -281,6 +281,12 @@ font-size: $caption_font_size;
 /** 
  * Course pages **********************************************************
 */
+.course-page img {
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+  }
 .course-table {
     width: 100%;
     border-collapse: collapse;
