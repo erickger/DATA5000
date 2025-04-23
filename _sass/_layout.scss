@@ -282,20 +282,23 @@ font-size: $caption_font_size;
  * Course pages **********************************************************
 */
 .course-table {
-    width: 120%;
+    width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
     font-family: Arial, sans-serif;
-}
-
-.course-table th,
-.course-table td {
-    border: 1px solid #ccc;
+  }
+  
+  .course-table th,
+  .course-table td {
     padding: 10px;
     text-align: left;
-}
-
-.course-table th {
+  }
+  
+  .course-table th {
     background-color: #f2f2f2;
     font-weight: bold;
-}
+  }
+  
+  .course-table tr {
+    border-bottom: 1px solid #ccc;
+  }
