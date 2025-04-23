@@ -285,7 +285,7 @@ font-size: $caption_font_size;
     width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
-    font-family: 'Georgia', serif;
+    font-family: 'Montserrat', serif;
   }
   
   .course-table th,
@@ -306,5 +306,12 @@ font-size: $caption_font_size;
   .subtitle-table {
     background-color: #f2f2f2;
     text-align: center;
+    vertical-align: middle;
+  }
+  .subtitle-table th,
+  .subtitle-table td {
+    background-color: #f2f2f2;
+    text-align: center;
+    vertical-align: middle;
   }
   
