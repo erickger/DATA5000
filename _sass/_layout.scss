@@ -320,4 +320,14 @@ font-size: $caption_font_size;
     text-align: center;
     vertical-align: middle;
   }
-  
+  .subtitle-highlight {
+    background-color: $theme-color;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .subtitle-highlight th,
+  .subtitle-highlight td {
+    background-color: $theme-color;
+    text-align: center;
+    vertical-align: middle;
+  }
