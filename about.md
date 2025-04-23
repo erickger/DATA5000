@@ -1,29 +1,25 @@
 ---
 layout: page
 title: Lecturer
-permalink: /about/
+permalink: /lecturer/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
-
+<img class="col one right" src="https://erickger.github.io/DATA5000/img/prof_pic.png">
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
-
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
+Public Interest Technologist, PMP, LLM.
+<br/>
+I have over ten years of experience in data governance, data science, and ICT. 
+My focus is on strategy and analytics management, supported by a strong technical foundation in artificial intelligence, including forecasting models, statistical modelling, customer analytics, natural language processing, and spatial data science. I’ve applied these skills across a wide range of industries, including manufacturing, defence, energy, mining, government, banking, startups, not-for-profit organisations, and consulting. Alongside my professional work, I’ve developed a strong interest in model explainability, responsible AI, economics, and technology governance.
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:erick.rodriguez@kbs.edu.au"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/erickger/" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/erickger-rodriguez/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	You can reach out through all the channels above.
 </div>
 
