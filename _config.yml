@@ -19,11 +19,8 @@ paginate_path: "/announcements/page:num/"
 
 
 collections:
-  portfolio:
+  posts:
     output: true
-    permalink: /portfolio/:path/
-  poetry:
-    output: true
-    permalink: /poetry/:path/
+    permalink: /posts/:path/
 
 
