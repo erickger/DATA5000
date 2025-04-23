@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /announcements/
+permalink: /blog/
 title: Announcements
 description: Here you will find the announcements made in class
 ---
