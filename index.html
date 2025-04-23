@@ -11,7 +11,29 @@ layout: default
 </div>
 
 
+<table class="course-table">
+  <thead>
+    <tr>
+      <th>Week</th>
+      <th>Date</th>
+      <th>Topic</th>
+      <th>Materials</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Jan 15</td>
+      <td>Introduction to Unstructured Data</td>
+      <td><a href="#">Slides</a> | <a href="#">Notebook</a></td>
+    </tr>
+    <!-- Add more rows as needed -->
+  </tbody>
+</table>
+
+
 <ul class="post-list">
+  
     {% for post in paginator.posts %}
       <li>
         <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
